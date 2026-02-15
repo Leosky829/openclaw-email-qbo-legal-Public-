@@ -18,4 +18,4 @@ We do not sell or share user data with third parties. Data is used only for the 
 Credentials and tokens are stored server-side and are not exposed to end users’ browsers.
 
 ## Contact
-For questions, contact: YOUR_WORK_EMAIL
+For questions, contact: regodesignllc@gmail.com
